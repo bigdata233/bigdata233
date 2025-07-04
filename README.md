@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Finantial Technology Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Financial AI Engineer.<br/>
+  #### :raising_hand: I am a Student studying Finanical Techonology from South Korea.<br/>
+  #### :fire: I wish to become a Financial AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Statistics, KONKUK University(KU)
   <br/>
   <br/>
