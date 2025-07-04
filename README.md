@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Student studying Finanical Techonology from South Korea.<br/>
   #### :fire: I wish to become a Financial AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Statistics, KONKUK University(KU)
+  #### :mortar_board: Bachelor degree of Arts & Science, Major in Applied Statistics, KONKUK University(KU), Salutatorian
   <br/>
   <br/>
   
