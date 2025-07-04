@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: I am a Financial Analysist from South Korea.<br/>
+  #### :fire: I aim to become a Financial AI Engineer.<br/>
+  #### :mortar_board: Bachelor of Applied Statistics, KONKUK University(KU)
   <br/>
   <br/>
   
