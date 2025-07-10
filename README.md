@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Student studying Financial Technology from South Korea.<br/>
-  #### :fire: I wish to become a Financial AI Engineer.<br/>
+  #### :raising_hand: This is JW studying Financial Technology from South Korea.<br/>
+  #### :fire: Aiming at reaching for a Fin-Tech careers.<br/>
   #### :mortar_board: Bachelor's degree of Arts & Science, Major in Applied Statistics at Konkuk University(KU), Salutatorian
   <br/>
   <br/>
